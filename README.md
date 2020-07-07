@@ -1,3 +1,13 @@
+# GRADES-API
+Esse aplicativo é parte do curso **Bootcamp Online - Desenvolvedor Full Stack** pela organização [IGTI ](https://igti.instructure.com/ "IGTI ")
+
+forked from [brunoaugustoteixeira/grades-app](https://github.com/brunoaugustoteixeira/grades-app "brunoaugustoteixeira/grades-app")
+
+Como desafio do Módulo 4, o projeto faz uso conjunto com o BACK-END [**GRADES-API**](https://github.com/guruck/grades-api)
+
+Implementado com NodeJS, REACT, HOOKS, MONGODB, publicado no aqui no GIT e Deploy no HEROKU.
+
+# ORIGIN
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
